@@ -24,18 +24,18 @@ See the [tech requirements page](B-Tech-Requirements.md) for detailed informatio
 
 ### Tentative Schedule
 
-#### Unit 1: Overview of Computational Text Analysis
+#### Unit 0: Overview of Computational Text Analysis
     * Acquiring texts and metadata
     * Text formats and embeddings
     * Supervised vs. Unsupervised methods
     * Overview of the course
 
-#### Unit 2: Preprocessing Texts
+#### Unit 1: Preprocessing Texts
     * Pre-processing “recipe”
     * Document-term matrices
     * Word frequencies and associations
 
-#### Unit 3: Dictionary Methods
+#### Unit 2: Dictionary Methods
     * What are dictionary methods
     * Sentiment analysis
     * Demonstration with several applications
