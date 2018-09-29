@@ -34,3 +34,60 @@ vignettes/*.pdf
 
 # Shiny token, see https://shiny.rstudio.com/articles/shinyapps.html
 rsconnect/
+
+# Latex
+*.aux
+*.glo
+*.idx
+*.log
+*.toc
+*.ist
+*.acn
+*.acr
+*.alg
+*.bbl
+*.blg
+*.dvi
+*.glg
+*.gls
+*.ilg
+*.ind
+*.lof
+*.lot
+*.maf
+*.mtc
+*.mtc1
+*.nav
+*.out
+*.snm
+*.synctex.gz
+*.toc
+*.txt
+*.tex
+
+# Images
+*.jpg
+*.jpeg
+*.png
+
+
+# Random
+topics1.pdf
+topics2.pdf
+region-plot.pdf
+Doc1.pdf
+Doc2.pdf
+Doc3.pdf
+Doc4.pdf
+Fig1.pdf
+Fig2.pdf
+Fig3.pdf
+Fig4.pdf
+Length1.pdf
+Length2.pdf
+Length3.pdf
+Length4.pdf
+
+# Except
+!04_Distinctive_Words/British_Fiction/*.txt
+
