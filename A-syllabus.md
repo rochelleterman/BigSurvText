@@ -42,11 +42,6 @@ See the [tech requirements page](B-Tech-Requirements.md) for detailed informatio
 
 #### Time Permitting / On Your Own
 
-- **Topic Modeling**
-    * What are topic models
-    * LDA, hierarchical models, and beyond.
-    * Interpretation / evaluation
-    * `stm` demonstration
 - **Distinctive Words** 
     * Methods for finding distinctive / discriminating words
     * Demonstration
@@ -57,5 +52,10 @@ See the [tech requirements page](B-Tech-Requirements.md) for detailed informatio
     * Unsupervised clustering
     * The K-means algorithm
     * Interpretation / evaluation
+- **Topic Modeling**
+    * What are topic models
+    * LDA, hierarchical models, and beyond.
+    * Interpretation / evaluation
+    * `stm` demonstration
 
 
